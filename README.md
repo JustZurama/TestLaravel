@@ -9,7 +9,7 @@
 
 # Laravel Testing Project
 
-![JustZurama](https://github.com/JustZurama/TestLaravel.git)
+![Laravel Tests](https://github.com/USERNAME/REPO/actions/workflows/laravel-tests.yml/badge.svg)
 
 ## About Laravel
 
