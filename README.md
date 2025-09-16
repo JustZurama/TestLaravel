@@ -9,7 +9,7 @@
 
 # Laravel Testing Project
 
-![ahmadmiftahulhuda-arch](https://github.com/ahmadmiftahulhuda-arch/praktikumAPI.git)
+![JustZurama](https://github.com/JustZurama/TestLaravel.git)
 
 ## About Laravel
 
